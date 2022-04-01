@@ -1,0 +1,18 @@
+{
+  "displayCluster": true,
+  "showFeatureCount": true,
+  "featureCountLabel": "TOTAL",
+  "summaryLayer": {
+    "fields": [
+      {
+        "type": "AVG",
+        "label": "",
+        "field": "anyo_fundacion"
+      }
+    ],
+    "id": "17fe5cbccdb-layer-2",
+    "name": "Monumentos falleros 2022 - Monumentos falleros 2022 0",
+    "filterField": "",
+    "url": "17fe5cbccdb-layer-2"
+  }
+}
